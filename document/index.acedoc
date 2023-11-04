@@ -1,0 +1,14 @@
+DEFAULTS_START
+# Default font size
+DefaultSize=16
+# Default font
+DefaultFont=Carlito-Regular.ttf
+DEFAULTS_END
+My Resume :: Size->300, BOLDITALICS, Anchor->CENTER
+LINE->340
+Reasons why you should hire me: :: Size->125, X->0, Y->500
+Yes :: Size->150, X->0, Y->675
+IMAGE->quandaledingle.jpg :: Width->1000, Height->1000, X->0, Y->825
+TABLE->Blah || blah ;; asf || asg || asfsdasdasdasdsdaasdasdasdasdasdasdasdsdaasdsdaasd ;; yeah || yes :: TextSize->100, Y->2000
+CREATENEWPAGE
+And trolls, DON'T GET BLOCKED! :: Size->100
