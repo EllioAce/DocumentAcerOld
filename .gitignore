@@ -289,7 +289,7 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm
 
 .vscode
-images/
+images/*
 documentation.txt
 features and issues.txt
 updates.txt
