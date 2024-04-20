@@ -1,3 +1,9 @@
+# THIS IS AN OLD VERSION OF DOCUMENT ACER!!!
+This is an older version of Document Acer.
+If I haven't published a newer version in a different repository, it means I am still working on it.
+Document Acer is one of those special projects to me, and I want to make it even better.
+If you want to use the new Document Acer, please wait for me to finish it.
+
 # Document Acer
 ## What is Document Acer?
 Document Acer is a domain specific language (DSL) for creating documents created by EllioAce as a small project that did not turn out small at all.
